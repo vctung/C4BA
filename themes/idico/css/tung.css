@@ -1,0 +1,20 @@
+.logo_footer {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.parallax-content-bg1 {
+	  background: url(../images/1.jpg) 50% 0 repeat-y fixed;
+	  height: auto;
+	  position: relative;
+	  z-index: 1;
+	  padding: 70px 0 60px;
+}
+
+.text_align_center {
+	text-align: center !important;
+}
+
+.text_align_left {
+	text-align: left; !important;
+}

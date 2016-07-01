@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'UTMTallingBold';
+    src: url('utm_tallingbold-webfont.eot');
+    src: url('utm_tallingbold-webfont.eot') format('embedded-opentype'),
+         url('utm_tallingbold-webfont.woff') format('woff'),
+         url('utm_tallingbold-webfont.ttf') format('truetype'),
+         url('utm_tallingbold-webfont.svg#UTMTallingBold') format('svg');
+}

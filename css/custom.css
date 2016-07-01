@@ -1,0 +1,22 @@
+.w20p {
+	border: 1px solid #ccc;
+
+}
+
+.button_custom {
+	padding: 8px 18px 8px 18px !important;
+	background: #0095d4;
+	color: #fff;
+	text-decoration: none  !important;	
+	margin: 0  auto;
+}
+
+
+.button_custom:hover {
+	background: #ccc;
+}
+
+.show_list_new_project li:hover {
+	opacity: 0.6;
+}
+

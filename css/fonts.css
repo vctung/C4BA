@@ -1,0 +1,60 @@
+/* —————————————————————————————— FONTS —————————————————————————————— */
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300);
+
+@font-face {
+    font-family: 'Oswald-Regular';
+    src: url('../fonts/oswald-regular.eot');
+    src: url('../fonts/oswald-regulard41d.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/oswald-regular.woff') format('woff'),
+    url('../fonts/oswald-regular.ttf') format('truetype'),
+    url('../fonts/oswald-regular.svg#oswald-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald-Light';
+    src: url('../fonts/oswald-light.eot');
+    src: url('../fonts/oswald-lightd41d.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/oswald-light.woff') format('woff'),
+    url('../fonts/oswald-light.html') format('truetype'),
+    url('../fonts/oswald-light.svg#oswald-light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Oswald-Bold';
+    src: url('../fonts/oswald-bold.eot');
+    src: url('../fonts/oswald-boldd41d.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/oswald-bold.woff') format('woff'),
+    url('../fonts/oswald-bold.ttf') format('truetype'),
+    url('../fonts/oswald-bold.svg#oswald-bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'utm_talling2';
+    src: url('../refont/talling-regular.eot');
+    src: url('../refont/talling-regular.eot?#iefix') format('embedded-opentype'),
+    url('../refont/talling-regular.woff') format('woff'),
+    url('../refont/talling-regular.ttf') format('truetype'),
+    url('../refont/talling-regular.svg#oswald-bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'utm_tallingbold';
+    src: url('../refont/utm_tallingbold-webfont.eot');
+    src: url('../refont/utm_tallingbold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../refont/utm_tallingbold-webfont.woff') format('woff'),
+         url('../refont/utm_tallingbold-webfont.ttf') format('truetype'),
+         url('../refont/utm_tallingbold-webfont.svg#utm_tallingbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+

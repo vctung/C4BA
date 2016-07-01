@@ -1,0 +1,148 @@
+.errorMessage,
+.error_field {
+	color: red;
+	font-style: italic;
+	font-size: 12px;
+}
+
+.info {
+	color: green;
+}
+/* END set  for  Error message */
+
+
+
+/* Set for data table */
+
+#sample_1_filter label {
+	float: right !important;
+	width: 50%;
+}
+
+
+#s2id_autogen1 {
+	display: none;
+}
+
+/* END Set for data table */
+
+
+/* Set for categories*/
+.box_cat_info {
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin-left: 10px;
+	text-align: center;
+}
+
+.box_cat_info img {
+	box-shadow: 10px 5px 10px #ccc;
+}
+
+
+	
+.setting_categories {
+	margin-bottom: 10px;
+}
+
+
+.empty_cat {
+	color: red;
+	font-size: 20px;
+}
+
+.edit_category_icon {
+	margin-left: 20px;
+}
+.cat_row .icon {
+	float: right;
+	margin-right: 5px;
+}
+.delete_category_icon:hover,
+.edit_category_icon:hover {
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+.cat_row .icon {
+	display: none;
+}
+
+.cat_row:hover .icon {
+	display: inline;
+}
+/* END  Set for categories*/
+
+
+/* order detail   */
+
+.order_detail_image {
+	padding: 10px;
+	border: 1px solid #ccc;
+}
+
+/*  END order detail   */
+
+/*  Dashboard  */
+.quick_icon { 
+	padding-top: 15px;
+}
+.quick_icon i {
+	font-size: 30px;
+	color: #007AFF;
+}
+
+
+.shopping_icon { 
+	padding-top: 15px;
+}
+.shopping_icon i {
+	font-size: 30px;
+	color: #02AF47;
+}
+
+/* END  Dashboard  */
+
+
+
+/*input-icon*/
+
+
+span.input-icon, span.input-help {
+	display: block;
+	position: relative;
+}
+.input-icon > input {
+	padding-left: 25px;
+	padding-right: 6px;
+}
+.input-icon.input-icon-right > input {
+	padding-left: 6px;
+	padding-right: 25px;
+}
+span.input-help > input {
+	padding-left: 30px;
+	padding-right: 6px;
+}
+.input-icon > [class*="fa-"], .input-icon > [class*="clip-"] {
+	bottom: 0;
+	color: #909090;
+	display: inline-block;
+	font-size: 14px;
+	left: 5px;
+	line-height: 35px;
+	padding: 0 3px;
+	position: absolute;
+	top: 0;
+	z-index: 2;
+}
+
+.input-icon.input-icon-right > [class*="fa-"], .input-icon.input-icon-right > [class*="clip-"] {
+	left: auto;
+	right: 4px;
+}
+.input-icon > input:focus + [class*="fa-"], .input-icon > input:focus + [class*="clip-"] {
+	color: #557799;
+}
+
+/*END :: input-icon */
